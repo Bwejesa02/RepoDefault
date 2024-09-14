@@ -41,6 +41,15 @@
 *.VC.db
 *.VC.opendb
 
+*.log
+*.tmp
+*.ini
+Saved/
+Intermediate/
+.vs/
+Binaries/
+DerivedDataCache/
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
